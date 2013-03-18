@@ -26,4 +26,38 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 #blog-archives { margin-top: 30px; }
 
 // Add a little horizontal space in dt elements
-.dl-horizontal dt { width: 135px; }
+.dl-horizontal {
+  dt { width: 135px; }
+  dd { padding-left: 10px; }
+}
+
+.map {
+  .info {
+    display: block;
+    float: left;
+    margin-right: 4em;
+    margin-bottom: 1.5em;
+  }
+  small {
+    display: none;
+  }
+}
+
+.calendar {
+  iframe {
+    height: 600px;
+    @media screen and (min-width: 1200px) {
+      width: 780px;
+    }
+    @media screen and (min-width: 980px) and (max-width: 1199px) {
+      width: 600px;
+    }
+    @media screen and (min-width: 768px) and (max-width: 979px) {
+      width: 480px;
+    }
+
+    @media screen and (max-width: 767px) {
+      width: 100%;
+    }
+  }
+}

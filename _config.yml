@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://makeslc.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://makeslc.github.com/makeslc
+title: MakeSLC
+subtitle: Salt Lake City Makerspace
+author: Duane Johnson
 simple_search: http://google.com/search
 description:
 
@@ -19,7 +19,8 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: makeslc.info@gmail.com
+press_email: makeslc.press@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -58,8 +59,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: makeslc
+github_repo_count: 1
 github_show_profile_link: true
 github_skip_forks: true
 
