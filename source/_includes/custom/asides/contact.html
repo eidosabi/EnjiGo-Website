@@ -1,0 +1,11 @@
+{% if site.email %}
+<h2>contact at</h2>
+<div class="contact-list-item">
+  <a href="mailto:{{ site.email }}"><img class="social_icon" title="Facebook" alt="facebook icon" src="{{ root_url }}/images/glyphicons_419_e-mail.png"> {{ site.email }}</a>
+</div>
+{% if site.facebook_group %}
+<div class="contact-list-item">
+  <a href="https://www.facebook.com/groups/{{ site.facebook_group }}/" rel="tooltip" title="Facbook"><img class="social_icon" title="Facebook" alt="facebook icon" src="{{ root_url }}/images/glyphicons_410_facebook.png"> MakeSLC Group</a>
+</div>
+{% endif %}
+{% endif %}
