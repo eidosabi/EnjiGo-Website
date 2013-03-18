@@ -173,8 +173,9 @@ ERR
     # Returns string
     #
     def category_link(category)
+      root_url = @context.registers[:site].config['root']
       dir = @context.registers[:site].config['category_dir']
-      "<a class='category' href='/#{dir}/#{category.to_url}/'>#{category}</a>"
+      "<a class='category' href='#{root_url}#{dir}/#{category.to_url}/'>#{category}</a>"
     end
 
     # Outputs the post.date as formatted html, with hooks for CSS styling.
