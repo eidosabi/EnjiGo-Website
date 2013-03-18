@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Events | MakeSLC]]></title>
+  <link href="http://makeslc.github.com/makeslc/blog/categories/events/atom.xml" rel="self"/>
+  <link href="http://makeslc.github.com/makeslc/"/>
+  <updated>2013-03-18T13:20:13-06:00</updated>
+  <id>http://makeslc.github.com/makeslc/</id>
+  <author>
+    <name><![CDATA[Duane Johnson]]></name>
+    <email><![CDATA[makeslc.info@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[MakeSLC Yardsale]]></title>
+    <link href="http://makeslc.github.com/makeslc/blog/2013/03/18/makeslc-yardsale/"/>
+    <updated>2013-03-18T13:12:00-06:00</updated>
+    <id>http://makeslc.github.com/makeslc/blog/2013/03/18/makeslc-yardsale</id>
+    <content type="html"><![CDATA[<p>We're having a Maker Yard Sale fundraiser! On <em>Wednesday Mar 27th</em>, we invite you to bring any "junk" you have from home that might be useful to someone else, and sell it at our community yard sale.</p>
+
+<p>You can also bring a "skill" to be auctioned off at the event--if you're a potter, or an electronics guy, or a software gal, or if you know a thing or two about 3D printers, for example, you could offer your expertise to fellow makers. Contact canadaduane@gmail.com if you're willing to mentor someone for an evening and help fund the makerspace.</p>
+
+<p>All proceeds will go toward buying a liability insurance policy--in other words, we'll be able to start stocking the space with probably-not-too-dangerous but still-needs-a-liability-policy type equipment like laser cutters and milling machines!</p>
+]]></content>
+  </entry>
+  
+</feed>
