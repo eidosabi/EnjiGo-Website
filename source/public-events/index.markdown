@@ -2,7 +2,7 @@
 layout: page
 title: "Public Events Calendar"
 date: 2013-03-17 21:21
-comments: true
+comments: false
 sharing: true
 footer: false
 ---
