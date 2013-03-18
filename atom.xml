@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[MakeSLC]]></title>
+  <link href="http://makeslc.github.com/makeslc/atom.xml" rel="self"/>
+  <link href="http://makeslc.github.com/makeslc/"/>
+  <updated>2013-03-17T20:25:34-06:00</updated>
+  <id>http://makeslc.github.com/makeslc/</id>
+  <author>
+    <name><![CDATA[Duane Johnson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
