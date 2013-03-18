@@ -8,7 +8,7 @@
   background-attachment: scroll;
   background-clip: border-box;
   background-color: #323232;
-  background-image: url("/images/heroBack.jpg");
+  background-image: url("/images/heroBack2.jpg");
   background-origin: padding-box;
   background-position: 0 0;
   background-repeat: repeat;
@@ -16,7 +16,7 @@
   margin: 0px;
   padding: 75px;
   z-index: -1;
-  height: 550px;
+  height: 460px;
 }
 #hero-inner {
   font-family: 'Cantarell', sans-serif;
@@ -27,7 +27,8 @@
 }
 #hero-inner em {
   font-style: normal;
-  color: #99CDE3;
+  /* color: #99CDE3; */
+  color: white;
   text-shadow: -1px -1px 2px #FAFAFA, 1px 1px 2px #070707;
 }
 body {
@@ -61,7 +62,7 @@ article h1 {
 }
 #front-wrapper {
   background-color: #F1F1F1;
-  margin-top: 500px;
+  margin-top: 460px;
   border-top-color: white;
   border-top-style: solid;
   border-top-width: 1px;
@@ -80,14 +81,14 @@ article h1 {
 }
 .wrapper_single {
   background-color: #F1F1F1;
-  background-image: url("/images/heroBack.jpg");
+  background-image: url("/images/heroBack2.jpg");
   background-attachment: fixed;
   padding-top: 75px;
   padding-bottom: 75px;
   border-bottom-color: white;
   border-bottom-style: solid;
   border-bottom-width: 1px;
-  min-height: 500px;
+  min-height: 460px;
 }
 .single_article {
   margin: 25px;
