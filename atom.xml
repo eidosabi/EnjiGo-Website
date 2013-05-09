@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[MakeSLC]]></title>
-  <link href="http://makeslc.github.com/makeslc.com/atom.xml" rel="self"/>
-  <link href="http://makeslc.github.com/makeslc.com/"/>
+  <link href="http://EngiGo.github.com/EnjiGo.com/atom.xml" rel="self"/>
+  <link href="http://EngiGo.github.com/EnjiGo.com/"/>
   <updated>2013-03-18T15:47:32-06:00</updated>
-  <id>http://makeslc.github.com/makeslc.com/</id>
+  <id>http://EngiGo.github.com/EnjiGo.com/</id>
   <author>
     <name><![CDATA[Duane Johnson]]></name>
-    <email><![CDATA[makeslc.info@gmail.com]]></email>
+    <email><![CDATA[EnjiGo.info@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
     <title type="html"><![CDATA[MakeSLC Yardsale]]></title>
-    <link href="http://makeslc.github.com/makeslc.com/blog/2013/03/18/makeslc-yardsale/"/>
+    <link href="http://EngiGo.github.com/EnjiGo.com/blog/2013/03/18/makeslc-yardsale/"/>
     <updated>2013-03-18T13:12:00-06:00</updated>
-    <id>http://makeslc.github.com/makeslc.com/blog/2013/03/18/makeslc-yardsale</id>
+    <id>http://EngiGo.github.com/EnjiGo.com/blog/2013/03/18/makeslc-yardsale</id>
     <content type="html"><![CDATA[<p>We&#8217;re having a Maker Yard Sale fundraiser! On <em>Wednesday Mar 27th</em>, we invite you to bring any &#8220;junk&#8221; you have from home that might be useful to someone else, and sell it at our community yard sale.</p>
 
 <p>You can also bring a &#8220;skill&#8221; to be auctioned off at the event&#8211;if you&#8217;re a potter, or an electronics guy, or a software gal, or if you know a thing or two about 3D printers, for example, you could offer your expertise to fellow makers. Contact canadaduane@gmail.com if you&#8217;re willing to mentor someone for an evening and help fund the makerspace.</p>
